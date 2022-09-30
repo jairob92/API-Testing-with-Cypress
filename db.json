@@ -1,0 +1,36 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombres": "Jairo",
+      "apellidos": "Bermudez",
+      "telefono": 3118962147,
+      "email": "prueba@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombres": "Daniel",
+      "apellidos": "Heano",
+      "telefono": 321852514,
+      "email": "prueba2@hotmail.com"
+    },
+    {
+      "id": 3,
+      "nombres": "Fernando",
+      "apellidos": "Gonzalez",
+      "telefono": 325789654,
+      "email": "fer@prueba.com"
+    },
+    {
+      "id": 4,
+      "nombres": "Carlos",
+      "apellidos": "Camargo",
+      "telefono": 369852147,
+      "email": "carlos@prueba.com"
+    },
+    {
+      "nombres": "Juana Martina",
+      "id": 5
+    }
+  ]
+}

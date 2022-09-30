@@ -1,0 +1,5 @@
+ npm init -y (Iniciar servicio npm)
+ npm i -d cypress prettier json-server (instalar cypress pritier y j-son server)
+ agregar en package.json "run:server": "json-server --watch db.json"
+ Ejecutar comando mpm run run:server
+ Colocar : "baseUrl": "http://localhost:3000" en cypress.json
